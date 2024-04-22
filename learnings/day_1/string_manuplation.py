@@ -4,6 +4,7 @@ b=input("enter the value of b \n")
 c=a
 a=b
 b=c
+# added extra line
 print("a: "+ a)
 print("b: "+ b)
 
