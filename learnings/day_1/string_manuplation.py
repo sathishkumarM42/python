@@ -1,4 +1,4 @@
-print("Swap the valuse")
+print("Swap the values")
 a=input("enter the value of a \n")
 b=input("enter the value of b \n")
 c=a
