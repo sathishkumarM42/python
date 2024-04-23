@@ -5,6 +5,7 @@ c=a
 a=b
 b=c
 # added extra line
+# Test Mac Git
 print("a: "+ a)
 print("b: "+ b)
 print("testing feature 1 branch1")
