@@ -1,9 +1,12 @@
 print("Swap the values")
 a=input("enter the value of a \n")
 b=input("enter the value of b \n")
-c=a
-a=b
-b=c
+a=int(a)
+b=int(b)
+a=a+b
+b=a-b
+a=a-b
+
 # added extra line
 # Test Mac Git 2016, 2018,1999,2020, 1900
 #year=2024
@@ -16,9 +19,8 @@ b=c
 #else:
    #print("Non Leap Year")
 
-print("a: "+ a)
-print("b: "+ b)
-print("testing feature 1 branch1")
+print("a: "+ str(a))
+print("b: "+ str(b))
 
 
 
